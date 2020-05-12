@@ -39,14 +39,14 @@ What do we see?  <br>
 </h2> 
 
 <p> 
-The most employees reside in:
-The least employees reside in:
+The most employees reside in: </br>
+The least employees reside in:/<br>
 
-The area with the most active cases:
-The area witht he least active cases:
+The area with the most active cases:</br>
+The area witht he least active cases:</br>
 
-Highest risk factor area:
-Lowest riks factor area:
+Highest risk factor area:</br>
+Lowest riks factor area:</br>
 
   
 </p>
