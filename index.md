@@ -7,8 +7,7 @@
  
 <h1> 
 COVID19 DASHBOARD | Data & Analytics
-</h1> <br>
-
+</h1> 
 <h4> By Pierre le Roux and Nikki Smit </h4>
 
 <h2> 
