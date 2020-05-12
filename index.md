@@ -27,7 +27,7 @@ How can Distell better prepare when we re-open? <br> </p>
 
 The size of the bubbles indicates the number of employees.
 The colour of the bubbles indicates the number of active COVID19 cases.
-The colour of the map takes into account the population density and so a risk factor is created to indicate how at risk our employees are. </br>
+The colour of the map takes into account the population density and so a risk factor is created to indicate how at risk our employees are. <br>
 
 </p>
 
@@ -39,14 +39,14 @@ What do we see?  <br>
 </h2> 
 
 <p> 
-The most employees reside in: </br>
-The least employees reside in:/<br>
+The most employees reside in: <br>
+The least employees reside in:<br>
 
-The area with the most active cases:</br>
-The area witht he least active cases:</br>
+The area with the most active cases:<br>
+The area witht he least active cases:<br>
 
-Highest risk factor area:</br>
-Lowest riks factor area:</br>
+Highest risk factor area:<br>
+Lowest riks factor area:<br>
 
   
 </p>
