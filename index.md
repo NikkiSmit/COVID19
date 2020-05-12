@@ -7,8 +7,6 @@ layout: default
     }
  </style>
  
- 
-<img src="download.png" alt="Distell Logo">
 <h1> 
 COVID19 DASHBOARD | Data & Analytics
 </h1> 
@@ -27,8 +25,9 @@ How can Distell better prepare when we re-open? <br> </p>
 
 <p> 
 
-
-
+The size of the bubbles indicates the number of employees.
+The colour of the bubbles indicates the number of active COVID19 cases.
+The colour of the map takes into account population and so a riks factor is created to indicate how at risk our employees are.
 
 </p>
 
