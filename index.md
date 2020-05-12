@@ -7,6 +7,8 @@ layout: default
     }
  </style>
  
+ 
+<img src="download.png" alt="Distell Logo">
 <h1> 
 COVID19 DASHBOARD | Data & Analytics
 </h1> 
@@ -23,7 +25,12 @@ How can Distell better prepare when we re-open? <br> </p>
 
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/BrooklynAnalysis-Map/BrooklynStreets?:display_count=y&publish=yes&:origin=viz_share_link:showVizHome=no&:embed=true" width = '1200' height = '650' scrolling='yes' ></iframe> 
 
+<p> 
 
+
+
+
+</p>
 
 
 
